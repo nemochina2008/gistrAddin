@@ -1,0 +1,4 @@
+Name: Create Github gist
+Description: Create Github gist from the current document.
+Binding: gistrAddin
+Interactive: true

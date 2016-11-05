@@ -1,0 +1,16 @@
+Package: gistrAddin
+Type: Package
+Title: Create Github gist in RStudio
+Version: 0.0.0.9000
+Authors@R: person("nakamichi", email="nakamichiworks@gmail.com", 
+    role = c("aut", "cre"))
+Description: This addin enables you to create Github gists easily in RStusio.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny (>= 0.13),
+    miniUI (>= 0.1.1),
+    rstudioapi (>= 0.5),
+    gistr
+RoxygenNote: 5.0.1
